@@ -384,43 +384,7 @@ export default {
 <summary><code>constants/index.js</code></summary>
 
 ```javascript
-import {
-  benefitIcon1,
-  benefitIcon2,
-  benefitIcon3,
-  benefitIcon4,
-  benefitImage2,
-  chromecast,
-  disc02,
-  discord,
-  discordBlack,
-  facebook,
-  figma,
-  file02,
-  framer,
-  homeSmile,
-  instagram,
-  notification2,
-  notification3,
-  notification4,
-  notion,
-  photoshop,
-  plusSquare,
-  protopie,
-  raindrop,
-  recording01,
-  recording03,
-  roadmap1,
-  roadmap2,
-  roadmap3,
-  roadmap4,
-  searchMd,
-  slack,
-  sliders04,
-  telegram,
-  twitter,
-  yourlogo,
-} from "../../public/assets";
+
 
 export const navigation = [
   {
@@ -876,3 +840,4 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+# UI
